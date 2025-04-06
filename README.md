@@ -1,2 +1,1 @@
-# Bilal-waleed
-موقعي الخاص لتتبع الاموال
+bilalsecretsite.github.io
